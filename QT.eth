@@ -3,12 +3,12 @@ pragma solidity ^0.5.12;
 // ----------------------------------------------------------------------------
 // PREDIQT token contract
 //
-// Symbol      : QT
+// Symbol      : PQT
 // Name        : Prediqt Token
-// Total supply: 1,000,000,000,000
+// Total supply: 500,000,000,000
 // Decimals    : 18
 // Website     : prediqt.io
-// Contract    : 0x40b5144538a9ad946d487ef151eaf9059f5f9c7c
+// Contract    : 0xF8c17C840549974eC17C6573B3963f1E3046c0eb
 // ----------------------------------------------------------------------------
 
 
